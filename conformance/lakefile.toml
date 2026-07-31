@@ -1,0 +1,15 @@
+name = "hexrealrootsmathlib-conformance"
+defaultTargets = ["HexRealRootsMathlibConformance"]
+
+leanOptions = [
+  { name = "doc.verso", value = true },
+  { name = "doc.verso.suggestions", value = false },
+]
+
+[[require]]
+name = "HexRealRootsMathlib"
+path = ".."
+
+[[lean_lib]]
+name = "HexRealRootsMathlibConformance"
+globs = ["HexRealRootsMathlib.Conformance"]
