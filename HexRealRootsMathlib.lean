@@ -6,6 +6,18 @@ Authors: Kim Morrison
 
 module
 
+public import HexRealRootsMathlib.TarskiSoundness
+public import HexRealRootsMathlib.TarskiMod
+public import HexRealRootsMathlib.TarskiReal
+public import HexRealRootsMathlib.RealClosed
+public import HexRealRootsMathlib.TarskiInterpret
+public import HexRealRootsMathlib.TarskiGcd
+public import HexRealRootsMathlib.TarskiCompare
+public import HexRealRootsMathlib.TarskiCount
+public import HexRealRootsMathlib.TarskiSum
+public import HexRealRootsMathlib.TarskiSigns
+public import HexRealRootsMathlib.TarskiInteger
+public import HexRealRootsMathlib.TarskiDomain
 public import HexRealRootsMathlib.SturmChainDefs
 public import HexRealRootsMathlib.SturmTheorem
 public import HexRealRootsMathlib.SturmCertificate
