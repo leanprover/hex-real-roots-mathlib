@@ -9,37 +9,37 @@ leanOptions = [
 [[require]]
 name = "HexPoly"
 git = "https://github.com/leanprover/hex-poly.git"
-rev = "v0.7.0"
+rev = "v0.8.0"
 
 [[require]]
 name = "HexPolyMathlib"
 git = "https://github.com/leanprover/hex-poly-mathlib.git"
-rev = "v0.7.0"
+rev = "v0.8.0"
 
 [[require]]
 name = "HexPolyZ"
 git = "https://github.com/leanprover/hex-poly-z.git"
-rev = "v0.7.0"
+rev = "v0.8.0"
 
 [[require]]
 name = "HexPolyZMathlib"
 git = "https://github.com/leanprover/hex-poly-z-mathlib.git"
-rev = "v0.7.0"
+rev = "v0.8.0"
 
 [[require]]
 name = "HexRealRoots"
 git = "https://github.com/leanprover/hex-real-roots.git"
-rev = "v0.7.0"
+rev = "v0.8.0"
 
 [[require]]
 name = "TauCeti"
 git = "https://github.com/TauCetiProject/TauCeti.git"
-rev = "0dbbe255a4f418084b30a3ffe6763d824a6b4250"
+rev = "1c497c347f615b3087cb605f8cf743e591376105"
 
 [[require]]
 name = "mathlib"
 git = "https://github.com/leanprover-community/mathlib4.git"
-rev = "d870b9068518a0870842d15a0cd42637ec30b587"
+rev = "6b7abb3c7686292736be2955bd3eb9ebf63b456a"
 
 [[lean_lib]]
 name = "HexRealRootsMathlib"
